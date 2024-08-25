@@ -1,5 +1,5 @@
 node_modules/
-./dist
+dist/
 rich_presence.html
 content_script.js
 manifest.json
