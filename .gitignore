@@ -1,0 +1,8 @@
+node_modules/
+./dist
+rich_presence.html
+content_script.js
+manifest.json
+Image.js
+scrape.html
+Scraper.html
